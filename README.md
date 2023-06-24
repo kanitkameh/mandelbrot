@@ -6,6 +6,10 @@ Should've done this a long time ago but oh well
 
 
 All ppms are stored at `output/ms.ppm`
+The directory `output` must be created:
+```
+mkdir output
+```
 
 ## Regular:
 ```bash
